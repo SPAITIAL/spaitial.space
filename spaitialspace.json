@@ -1,9 +1,11 @@
 {
   "nodes": [
-    {"id": "Spatial AI"},
-    {"id": "Spatial Computing"},
-    {"id": "User Experiences"},
-    {"id": "AI/ML", "link": "topic/ai-ml"},
+    {"id": "Spatial AI", "group": 0},
+    {"id": "Spatial Computing", "group": 1},
+    {"id": "User Experiences", "group": 1},
+    {"id": "AI/ML", "group": 1, "link": "topic/ai-ml"},
+    {"id": "Spatial Interfaces", "group": 1},
+    {"id": "Data Science", "group": 1},
     {"id": "Artificial Intelligence"},
     {"id": "Machine Learning"},
     {"id": "GIS - Geographic Information Systems", "link": "topic/gis"},
@@ -16,13 +18,14 @@
     {"id": "Photogrammetry"},
     {"id": "NeRFs"},
     {"id": "GaSPs"},
-    {"id": "Semantic Segmentation"},
-    {"id": "Spatial Interfaces"}
+    {"id": "Semantic Segmentation"}
+
   ],
   "links": [
     {"source": "Spatial AI", "target": "Spatial Computing"},
     {"source": "Spatial AI", "target": "AI/ML"},
     {"source": "Spatial AI", "target": "Spatial Interfaces"},
+    {"source": "Spatial AI", "target": "Data Science"},
     {"source": "Spatial AI", "target": "User Experiences"},
     {"source": "Spatial Computing", "target": "3D"},
     {"source": "Spatial AI", "target": "GIS - Geographic Information Systems"},
