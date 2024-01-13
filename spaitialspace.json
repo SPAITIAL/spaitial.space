@@ -1,6 +1,6 @@
 {
   "nodes": [
-    {"id": "Spatial AI", "group": 0, "x": 0, "y": -100, "z": 0},
+    {"id": "Spatial AI", "group": 0, "x": 0, "y": 0, "z": 0},
     {"id": "Spatial Computing", "group": 1},
     {"id": "User Experiences", "group": 1},
     {"id": "AI/ML", "group": 1, "link": "topic/ai-ml"},
