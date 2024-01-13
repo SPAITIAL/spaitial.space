@@ -46,6 +46,6 @@
     {"source": "Data Science", "target": "Analysis"},
     {"source": "Analysis", "target": "Satellite Imagery"},
     {"source": "Machine Learning", "target": "Autonomy"},
-    {"source": "Artificial Intelligence", "target": "Autonomy"},
+    {"source": "Artificial Intelligence", "target": "Autonomy"}
   ]
 }
