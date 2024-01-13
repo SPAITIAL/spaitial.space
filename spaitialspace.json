@@ -10,7 +10,7 @@
     {"id": "Geology", "link": "topic/geology"},
     {"id": "VR %26 AR/XR/MR"},
     {"id": "VR"},
-    {"id": "AR/XR/MR"},
+    {"id": "AR/XR/MR"}
   ],
   "links": [
     {"source": "Spatial AI", "target": "Spatial Computing"},
@@ -22,6 +22,6 @@
     {"source": "GIS - Geographic Information Systems", "target": "Geology"},
     {"source": "Spatial Computing", "target": "VR %26 AR/XR/MR"},
     {"source": "VR %26 AR/XR/MR", "target": "VR"},
-    {"source": "VR %26 AR/XR/MR", "target": "AR/XR/MR"},
+    {"source": "VR %26 AR/XR/MR", "target": "AR/XR/MR"}
   ]
 }
