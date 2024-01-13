@@ -11,13 +11,16 @@
     {"id": "GIS - Geographic Information Systems", "group": 1, "link": "topic/gis"},
     {"id": "3D", "link": "topic/3d"},
     {"id": "Geology", "link": "topic/geology"},
-    {"id": "x Reality"},
+    {"id": "x-Reality"},
     {"id": "VR"},
     {"id": "AR/XR/MR"},
     {"id": "SFM - Structure from Motion"},
     {"id": "Photogrammetry"},
     {"id": "NeRFs"},
     {"id": "GaSPs"},
+    {"id": "Analysis"},
+    {"id": "Autonomy"},
+    {"id": "Satellite Imagery"},
     {"id": "Semantic Segmentation"}
 
   ],
@@ -33,12 +36,14 @@
     {"source": "AI/ML", "target": "Machine Learning"},
     {"source": "GIS - Geographic Information Systems", "target": "Geology"},
     {"source": "Spatial Computing", "target": "x Reality"},
-    {"source": "x Reality", "target": "VR"},
-    {"source": "x Reality", "target": "AR/XR/MR"},
+    {"source": "x-Reality", "target": "VR"},
+    {"source": "x-Reality", "target": "AR/XR/MR"},
     {"source": "3D", "target": "SFM - Structure from Motion"},
     {"source": "SFM - Structure from Motion", "target": "Photogrammetry"},
     {"source": "SFM - Structure from Motion", "target": "NeRFs"},
     {"source": "SFM - Structure from Motion", "target": "GaSPs"},
-    {"source": "3D", "target": "Semantic Segmentation"}
+    {"source": "3D", "target": "Semantic Segmentation"},
+    {"source": "Data Science", "target": "Analysis"},
+    {"source": "Analysis", "target": "Satellite Imagery"}
   ]
 }
