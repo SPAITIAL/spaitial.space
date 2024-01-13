@@ -2,6 +2,7 @@
   "nodes": [
     {"id": "Spatial AI"},
     {"id": "Spatial Computing"},
+    {"id": "User Experiences"},
     {"id": "AI/ML", "link": "topic/ai-ml"},
     {"id": "Artificial Intelligence"},
     {"id": "Machine Learning"},
@@ -10,11 +11,14 @@
     {"id": "Geology", "link": "topic/geology"},
     {"id": "x Reality"},
     {"id": "VR"},
-    {"id": "AR/XR/MR"}
+    {"id": "AR/XR/MR"},
+    {"id": "Spatial Interfaces"}
   ],
   "links": [
     {"source": "Spatial AI", "target": "Spatial Computing"},
     {"source": "Spatial AI", "target": "AI/ML"},
+    {"source": "Spatial AI", "target": "Spatial Interfaces"},
+    {"source": "Spatial AI", "target": "User Experiences"},
     {"source": "Spatial Computing", "target": "3D"},
     {"source": "Spatial AI", "target": "GIS - Geographic Information Systems"},
     {"source": "AI/ML", "target": "Artificial Intelligence"},
