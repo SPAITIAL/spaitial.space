@@ -8,7 +8,7 @@
     {"id": "GIS - Geographic Information Systems", "link": "topic/gis"},
     {"id": "3D", "link": "topic/3d"},
     {"id": "Geology", "link": "topic/geology"},
-    {"id": "VR %26 AR/XR/MR"},
+    {"id": "x Reality"},
     {"id": "VR"},
     {"id": "AR/XR/MR"}
   ],
@@ -20,8 +20,8 @@
     {"source": "AI/ML", "target": "Artificial Intelligence"},
     {"source": "AI/ML", "target": "Machine Learning"},
     {"source": "GIS - Geographic Information Systems", "target": "Geology"},
-    {"source": "Spatial Computing", "target": "VR %26 AR/XR/MR"},
-    {"source": "VR %26 AR/XR/MR", "target": "VR"},
-    {"source": "VR %26 AR/XR/MR", "target": "AR/XR/MR"}
+    {"source": "Spatial Computing", "target": "x Reality"},
+    {"source": "x Reality", "target": "VR"},
+    {"source": "x Reality", "target": "AR/XR/MR"}
   ]
 }
