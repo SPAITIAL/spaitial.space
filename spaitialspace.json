@@ -12,6 +12,11 @@
     {"id": "x Reality"},
     {"id": "VR"},
     {"id": "AR/XR/MR"},
+    {"id": "SFM - Structure from Motion"},
+    {"id": "Photogrammetry"},
+    {"id": "NeRFs"},
+    {"id": "GaSPs"},
+    {"id": "Semantic Segmentation"},
     {"id": "Spatial Interfaces"}
   ],
   "links": [
@@ -26,6 +31,11 @@
     {"source": "GIS - Geographic Information Systems", "target": "Geology"},
     {"source": "Spatial Computing", "target": "x Reality"},
     {"source": "x Reality", "target": "VR"},
-    {"source": "x Reality", "target": "AR/XR/MR"}
+    {"source": "x Reality", "target": "AR/XR/MR"},
+    {"source": "3D", "target": "SFM - Structure from Motion"},
+    {"source": "SFM - Structure from Motion", "target": "Photogrammetry"},
+    {"source": "SFM - Structure from Motion", "target": "NeRFs"},
+    {"source": "SFM - Structure from Motion", "target": "GaSPs"},
+    {"source": "3D", "target": "Semantic Segmentation"}
   ]
 }
