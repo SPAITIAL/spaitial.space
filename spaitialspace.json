@@ -35,7 +35,7 @@
     {"source": "AI/ML", "target": "Artificial Intelligence"},
     {"source": "AI/ML", "target": "Machine Learning"},
     {"source": "GIS - Geographic Information Systems", "target": "Geology"},
-    {"source": "Spatial Computing", "target": "x Reality"},
+    {"source": "Spatial Computing", "target": "x-Reality"},
     {"source": "x-Reality", "target": "VR"},
     {"source": "x-Reality", "target": "AR/XR/MR"},
     {"source": "3D", "target": "SFM - Structure from Motion"},
