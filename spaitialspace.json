@@ -21,8 +21,13 @@
     {"id": "Analysis"},
     {"id": "Autonomy"},
     {"id": "Satellite Imagery"},
-    {"id": "Semantic Segmentation"}
-
+    {"id": "Semantic Segmentation"},
+    {"id": "Drones"},
+    {"id": "Robots"},
+    {"id": "Vehicles"},
+    {"id": "Underwater"},
+    {"id": "SLAM"},  
+    {"id": "Human-Machine Teaming"}    
   ],
   "links": [
     {"source": "Spatial AI", "target": "Spatial Computing"},
@@ -46,6 +51,12 @@
     {"source": "Data Science", "target": "Analysis"},
     {"source": "Analysis", "target": "Satellite Imagery"},
     {"source": "Machine Learning", "target": "Autonomy"},
-    {"source": "Artificial Intelligence", "target": "Autonomy"}
+    {"source": "Artificial Intelligence", "target": "Autonomy"},
+    {"source": "Autonomy", "target": "Drones"},
+    {"source": "Autonomy", "target": "Robots"},
+    {"source": "Autonomy", "target": "Vehicles"},
+    {"source": "Autonomy", "target": "Underwater"},
+    {"source": "Autonomy", "target": "SLAM"},
+    {"source": "Autonomy", "target": "Human-Machine Teaming"}
   ]
 }
