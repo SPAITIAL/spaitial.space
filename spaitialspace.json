@@ -32,6 +32,7 @@
     {"id": "SLAM"}, 
     {"id": "Mining"},
     {"id": "Agriculture"},
+    {"id": "Human-Centered Design"},
     {"id": "Civil"},  
     {"id": "Human-Machine Teaming"}    
   ],
@@ -73,6 +74,8 @@
     {"source": "Autonomy", "target": "Underwater"},
     {"source": "Autonomy", "target": "SLAM"},
     {"source": "Autonomy", "target": "Human-Machine Teaming"},
-    {"source": "User Experiences", "target": "Human-Machine Teaming"}
+    {"source": "User Experiences", "target": "Human-Machine Teaming"},
+    {"source": "User Experiences", "target": "Human-Centered Design"},
+    {"source": "Spatial Interfaces", "target": "Human-Centered Design"}    
   ]
 }
