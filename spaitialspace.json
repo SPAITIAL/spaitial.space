@@ -62,6 +62,7 @@
     {"source": "SFM - Structure from Motion", "target": "GaSPs"},
     {"source": "3D", "target": "Semantic Segmentation"},
     {"source": "2D", "target": "Semantic Segmentation"},
+    {"source": "Machine Learning", "target": "Semantic Segmentation"},
     {"source": "Data Science", "target": "Analysis"},
     {"source": "Analysis", "target": "Satellite Imagery"},
     {"source": "Analysis", "target": "Timeseries"},
