@@ -20,6 +20,8 @@
     {"id": "GaSPs"},
     {"id": "Analysis"},
     {"id": "Autonomy"},
+    {"id": "Timeseries"},
+    {"id": "Location Intelligence"},
     {"id": "Satellite Imagery"},
     {"id": "Semantic Segmentation"},
     {"id": "Drones"},
@@ -50,6 +52,8 @@
     {"source": "3D", "target": "Semantic Segmentation"},
     {"source": "Data Science", "target": "Analysis"},
     {"source": "Analysis", "target": "Satellite Imagery"},
+    {"source": "Analysis", "target": "Timeseries"},
+    {"source": "Analysis", "target": "Location Intelligence"},
     {"source": "Machine Learning", "target": "Autonomy"},
     {"source": "Artificial Intelligence", "target": "Autonomy"},
     {"source": "Autonomy", "target": "Drones"},
@@ -57,6 +61,7 @@
     {"source": "Autonomy", "target": "Vehicles"},
     {"source": "Autonomy", "target": "Underwater"},
     {"source": "Autonomy", "target": "SLAM"},
-    {"source": "Autonomy", "target": "Human-Machine Teaming"}
+    {"source": "Autonomy", "target": "Human-Machine Teaming"},
+    {"source": "User Experiences", "target": "Human-Machine Teaming"}
   ]
 }
