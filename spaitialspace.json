@@ -90,7 +90,7 @@
     {"source": "Machine Learning", "target": "Unsupervised Learning"},
     {"source": "Machine Learning", "target": "Deep Learning"},
     {"source": "Machine Learning", "target": "Neural Networks"},
-    {"source": "Deep Learningg", "target": "Deep Neural Networks"},
+    {"source": "Deep Learning", "target": "Deep Neural Networks"},
     {"source": "Neural Networks", "target": "Deep Neural Networks"},
     {"source": "Deep Neural Networks", "target": "Generative AI"}
   ]
