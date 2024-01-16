@@ -34,7 +34,14 @@
     {"id": "Agriculture"},
     {"id": "Human-Centered Design"},
     {"id": "Civil"},  
-    {"id": "Human-Machine Teaming"}    
+    {"id": "Human-Machine Teaming"},  
+    {"id": "Supervised Learning"},  
+    {"id": "Reinforcement Learning"},  
+    {"id": "Unsupervised Learning"},  
+    {"id": "Deep Learning"},  
+    {"id": "Neural Networks"},  
+    {"id": "Deep Neural Networks"},
+    {"id": "Generative AI"}  
   ],
   "links": [
     {"source": "Spatial AI", "target": "Spatial Computing"},
@@ -77,6 +84,14 @@
     {"source": "Autonomy", "target": "Human-Machine Teaming"},
     {"source": "User Experiences", "target": "Human-Machine Teaming"},
     {"source": "User Experiences", "target": "Human-Centered Design"},
-    {"source": "Spatial Interfaces", "target": "Human-Centered Design"}    
+    {"source": "Spatial Interfaces", "target": "Human-Centered Design"},
+    {"source": "Machine Learning", "target": "Supervised Learning"},
+    {"source": "Machine Learning", "target": "Reinforcement Learning"},
+    {"source": "Machine Learning", "target": "Unsupervised Learning"},
+    {"source": "Machine Learning", "target": "Deep Learning"},
+    {"source": "Machine Learning", "target": "Neural Networks"},
+    {"source": "Deep Learningg", "target": "Deep Neural Networks"},
+    {"source": "Neural Networks", "target": "Deep Neural Networks"},
+    {"source": "Deep Neural Networks", "target": "Generative AI"}
   ]
 }
