@@ -41,7 +41,8 @@
     {"id": "Deep Learning"},  
     {"id": "Neural Networks"},  
     {"id": "Deep Neural Networks"},
-    {"id": "Generative AI"}  
+    {"id": "Generative AI"},
+    {"id": "Expert Systems"}
   ],
   "links": [
     {"source": "Spatial AI", "target": "Spatial Computing"},
@@ -76,6 +77,7 @@
     {"source": "Analysis", "target": "Location Intelligence"},
     {"source": "Machine Learning", "target": "Autonomy"},
     {"source": "Artificial Intelligence", "target": "Autonomy"},
+    {"source": "Artificial Intelligence", "target": "Expert Systems"},
     {"source": "Autonomy", "target": "Drones"},
     {"source": "Autonomy", "target": "Robots"},
     {"source": "Autonomy", "target": "Vehicles"},
