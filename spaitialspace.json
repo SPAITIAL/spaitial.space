@@ -94,6 +94,9 @@
     {"source": "Neural Networks", "target": "Deep Neural Networks"},
     {"source": "Deep Neural Networks", "target": "Generative AI"},
     {"source": "Generative AI", "target": "2D"},
-    {"source": "Generative AI", "target": "3D"}
+    {"source": "Generative AI", "target": "3D"},
+    {"source": "x-Reality", "target": "Human-Centered Design"},
+    {"source": "NeRFs", "target": "Reinforcement Learning"},
+    {"source": "GaSPs", "target": "Reinforcement Learning"}
   ]
 }
