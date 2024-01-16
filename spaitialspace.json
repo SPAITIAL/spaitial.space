@@ -97,6 +97,7 @@
     {"source": "Generative AI", "target": "3D"},
     {"source": "x-Reality", "target": "Human-Centered Design"},
     {"source": "NeRFs", "target": "Reinforcement Learning"},
-    {"source": "GaSPs", "target": "Reinforcement Learning"}
+    {"source": "GaSPs", "target": "Reinforcement Learning"},
+    {"source": "Photogrammetry", "target": "Data Science"}
   ]
 }
