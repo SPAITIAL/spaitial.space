@@ -11,7 +11,7 @@
     {"id": "GIS - Geographic Information Systems", "group": 1, "link": "topic/gis"},
     {"id": "3D", "link": "topic/3d"},
     {"id": "Geology", "link": "topic/geology"},
-    {"id": "x-Reality"},
+    {"id": "x-Reality","text": "All 'reality' modes: Virtual Reality, Augmented Reality, Extended Reality and Mixed Reality"},
     {"id": "VR"},
     {"id": "AR/XR/MR"},
     {"id": "SFM - Structure from Motion"},
