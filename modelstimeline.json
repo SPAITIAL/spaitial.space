@@ -28,7 +28,7 @@
 "Anthropic-LM 52B":{"date":"2021-12-01","lab":"Anthropic","parametersB":52,"ALscore":0.48},
 "GLaM":{"date":"2021-12-01","lab":"Google","parametersB":1200,"ALscore":0},
 "Gopher":{"date":"2021-12-01","lab":"DeepMind","parametersB":280,"ALscore":0.97},
-"Fairseq":{"date":"2021-12-01","lab":"Meta AI","parametersB":13 & 1100,"ALscore":0},
+"Fairseq":{"date":"2021-12-01","lab":"Meta AI","parametersB":13,"ALscore":0},
 "XGLM":{"date":"2021-12-01","lab":"Meta AI","parametersB":7.5,"ALscore":0},
 "ERNIE 3.0 Titan":{"date":"2021-12-01","lab":"Baidu","parametersB":260,"ALscore":0},
 "GPT-NeoX-20B":{"date":"2022-02-01","lab":"EleutherAI","parametersB":20,"ALscore":0},
