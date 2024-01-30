@@ -1,3 +1,4 @@
+{
 "ULMFiT":{"date":"2018-01-01","lab":"Fast.ai","parametersB":0.1,"ALscore":0},
 "GPT-1":{"date":"2018-06-01","lab":"OpenAI","parametersB":0.117,"ALscore":0},
 "BERT":{"date":"2018-10-01","lab":"Google","parametersB":0.3,"ALscore":0.02},
@@ -223,3 +224,4 @@
 "DeepSeekMoE":{"date":"2024-01-01","lab":"DeepSeek-AI","parametersB":16,"ALscore":0.6},
 "GLM-4":{"date":"2024-01-01","lab":"Zhipu AI (Tsinghua)","parametersB":200,"ALscore":2.98},
 "Fuyu-Heavy":{"date":"2024-01-01","lab":"Adept","parametersB":120,"ALscore":2.58},
+}
